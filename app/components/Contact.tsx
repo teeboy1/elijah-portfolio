@@ -60,7 +60,7 @@ export default function Contact() {
           <p className="text-white text-glow mt-1"><a href="mailto:elnactayo2@gmail.com" className="underline">elnactayo2@gmail.com</a></p>
           <p className="text-white text-glow mt-1"><a href="https://github.com/teeboy1" target="_blank" rel="noreferrer" className="underline">github.com/teeboy1</a></p>
           <p className="text-white text-glow mt-1"><a href="https://twitter.com/E_baba5858" target="_blank" rel="noreferrer" className="underline">@E_baba5858</a></p>
-          <p className="text-white text-glow mt-1">LinkedIn: Profile Currently Under Review</p>
+          <p className="text-white text-glow mt-1">Website: <a href="https://elijah-portfolio-vert.vercel.app/" target="_blank" rel="noreferrer" className="underline">https://elijah-portfolio-vert.vercel.app/</a></p>
 
           <div className="mt-6 flex flex-wrap gap-3">
             <a href="mailto:elnactayo2@gmail.com" className="btn cta">Email Me</a>
